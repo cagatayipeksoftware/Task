@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216449937960",
+    "project_id": "test-react-794a6",
+    "storage_bucket": "test-react-794a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216449937960:android:022a7bcbda4f67ca5dfb1d",
+        "android_client_info": {
+          "package_name": "com.example.thanos3dtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-jOWHhPbyF76v9kr1aYyjfELGlSs9M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
